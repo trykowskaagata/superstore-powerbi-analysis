@@ -47,7 +47,7 @@ Usunięto duplikaty według Order ID, ponieważ każde zamówienie powinno wyst�
 Model przyjmuje strukturę gwiazdy, gdzie centralną tabelą faktów jest tabela SALES, a wokół niej znajdują się tabele wymiarów (CUSTOMERS, PRODUCTS, LOCATIONS, ORDERS).
 Relacje Między Tabelami
 Relacje w modelu są typu jeden do wielu, co jest standardem w schematach gwiazdy i zapewnia prawidłowe filtrowanie i agregowanie danych.
-![StarSchemaModel](StarSchemaModel.png)
+![StarSchemaModel](starschemamodel.png)
 * CUSTOMERS - SALES: relacja jeden do wielu po Customer ID (każdy klient może miec wiele transakcji)
 * PRODUCTS - SALES: relacja jeden do wielu po Product ID (każdy produkt może być częścią wielu sprzedaży)
 * ORDERS - SALES: relacja jeden do wielu po Order ID (każde zamówienie może zawierać wiele pozycji sprzedażowych)
