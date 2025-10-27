@@ -1,5 +1,5 @@
 # superstore-powerbi-analysis
-## Raport analityczny dla danych sprzedażowych
+## Projekt zespołowy: analiza sprzedaży detalicznej
 ### Opis projektu
 Projekt został zrealizowany w ramach pracy zespołowej i dotyczył analizy danych sprzedażowych pochodzących z rynku detalicznego. Celem było zrozumienie struktury sprzedaży, identyfikacja kluczowych trendów oraz przygotowanie interaktywnego dashboardu wspierającego decyzje biznesowe.
 W ramach zespołu byłam odpowiedzialna za:
